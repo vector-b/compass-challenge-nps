@@ -16,6 +16,7 @@ eggs/
 .eggs/
 lib/
 data/csv
+media/presentation
 data/json
 lib64/
 parts/
