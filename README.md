@@ -8,6 +8,11 @@ O Arquivo *Presentation Compass.pdf* possui uma apresentação com alguns *insig
 
 Todos os códigos utilizados e desenvolvidos estão contidos no arquivo *NPS_Dev.ipynb*
 
+Para instalar as bibliotecas necessárias:
+
+<pre><code>pip3 install -r requirements.txt
+</code></pre>
+
 ENJOY
 
 ![alt text](gurren.gif "GOOOO")
